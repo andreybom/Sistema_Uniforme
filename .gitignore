@@ -4,3 +4,4 @@ dist/
 build/
 *.spec
 sistema_escola.db
+output/
